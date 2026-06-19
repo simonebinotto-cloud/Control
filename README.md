@@ -22,5 +22,5 @@ The Simulink model is structured with a modular approach, separating the control
 ## Getting Started
 1. Clone the repository.
 2. Open MATLAB/Simulink.
-3. Run the initialization script (if available) to load the necessary workspace variables (e.g., moments of inertia, orbital parameters, controller gains).
+3. Run the initialization script to load the necessary workspace variables (e.g., moments of inertia, orbital parameters, controller gains).
 4. Open the main `.slx` model and run the simulation.
